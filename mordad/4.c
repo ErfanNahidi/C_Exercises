@@ -10,6 +10,7 @@ char name[20] = "";
 char lastname[20] = "";
 char grade = '\0';
 
+
 printf("dear user, please enter your Fname and Lname: ");
 scanf("%19s%19s", name, lastname);
 
